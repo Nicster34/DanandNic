@@ -1,4 +1,4 @@
-// Name:         Daniel Humphrey
+// Name:         Daniel Humphrey & NIC KNOCH
 // Program:      CSC 275 Program 3
 // Due Date:     02/19/17
 // Compiler:     GNU GCC
