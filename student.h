@@ -12,6 +12,9 @@ class Student{
         friend ostream& operator <<(ostream& out, const Student& rhs);
         Student();
         Student(string, string, int);
+        void newClass();
+        void delClass(int);
+
 
 
 
